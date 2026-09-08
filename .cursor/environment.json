@@ -1,0 +1,11 @@
+{
+  "name": "BernardKastler profile",
+  "install": "npm install",
+  "terminals": [
+    {
+      "name": "markdown-preview",
+      "command": "npm run preview"
+    }
+  ],
+  "ports": [8642]
+}
